@@ -1,0 +1,108 @@
+Agent runs as:
+http://zproxy.planet.ee/zmovies/
+
+Mochi reference is at:
+http://zproxy.planet.ee/mochi.html
+
+Coral cache reference:
+http://zproxy.planet.ee.nyud.net/
+
+ZMovies entry:
+http://zmovies.tk/
+
+You need to put this file on your web site server for Friend Connect to work.
+canvas.html
+rpc_relay.html
+
+Yahho Pipes feed:
+http://pipes.yahoo.com/zproxy/zmovies
+http://pipes.yahoo.com/pipes/avVNI38M3hGUX9V73nBDOQ/run?&_render=json&_callback=piper
+There is a refresh buttun in the pipe source view output panel.
+
+ActionScript support for pipes:
+http://blog.pipes.yahoo.net/2007/03/10/pipes-adds-flash-developer-support/
+
+Todo:
+http://www.hunlock.com/blogs/Yahoo_Pipes--RSS_without_Server_Side_Scripts
+If your feed has 1 subscriber in Google Reader only, your feed is
+being refreshed every 3 hours.
+
+Public feed:
+http://feeds2.feedburner.com/zmovies
+Public feed update:
+http://www.feedburner.com/fb/a/pingSubmit?bloglink=http%3A%2F%2Fzproxy.planet.ee
+
+Private feed:
+http://zproxy.planet.ee/zmovies/feed.xml
+
+
+
+http://tinyarro.ws/redirect/success/1/zmovies
+http://preview.tinyurl.com/zmovies
+http://tinyurl.com/zmovies
+
+
+http://www.mochiads.com/feeds/games/ee29b66a04ba1b53/featured_games/all?format=json&limit=3
+http://jsonformatter.curiousconcept.com/
+http://en.wikipedia.org/wiki/List_of_HTTP_headers
+
+Youtube preview:
+http://img.youtube.com/vi/NK59Beq0Sew/0.jpg
+
+
+
+http://apps.cooliris.com/embed/docs/index3.php
+http://developer.cooliris.com/dev_forum/comments.php?DiscussionID=490
+http://developer.cooliris.com/dev_forum/comments.php?DiscussionID=31&page=1#Item_0
+
+used by others just as a button:
+http://new.seesmic.com/
+http://bigpondnews.com/
+http://bwrecording.com/index.php?option=com_wrapper&view=wrapper&Itemid=111
+
+http://developer.cooliris.com/samples/lite_api.html
+// create feed
+feedData : String  // is the Media RSS feed itself (do not use feedUrl if you want to programmatically generate & pass in the feed text)
+
+
+base64:
+http://www.greywyvern.com/code/php/binary2base64
+http://www.motobit.com/util/base64-decoder-encoder.asp
+
+image distribution:
+http://images.cdmazika.com/index.php?url=1
+index:
+http://www.findimagehost.com/flash-hosting.php
+swf hosting:
+http://www.fhqhosting.com/index.php
+http://www.swfcabin.com/
+
+http://feedvalidator.org/check.cgi?url=http%3A%2F%2Fzproxy.planet.ee%2Fzmovies%2Ffeed.xml
+
+http://www.gmodules.com/ig/ifr?url=http://hosting.gmodules.com/ig/gadgets/file/112091410969506928037/MovieAgentGadgetAlpha.xml&synd=open&w=800&h=400&title=zmovies&border=http%3A%2F%2Fwww.gmodules.com%2Fig%2Fimages%2F&source=http%3A%2F%2Fwww.gmodules.com%2Fig%2Fcreator%3Furl%3Dhttp%253A%252F%252Fhosting.gmodules.com%252Fig%252Fgadgets%252Ffile%252F112091410969506928037%252FMovieAgentGadgetAlpha.xml
+http://www.gmodules.com/ig/ifr?url=http://hosting.gmodules.com/ig/gadgets/file/112091410969506928037/MovieAgentGadgetAlpha.xml
+http://www.gmodules.com/ig/ifr?url=http://zproxy.planet.ee/zmovies/MovieAgentGadget.GoogleGadget.xml
+
+http://browsershots.org/http://zproxy.planet.ee/zmovies4/
+
+http://code.google.com/apis/chart/types.html#bar_charts
+http://code.google.com/apis/chart/formats.html
+
+http://moviezip.net/index.php/home/182-2012-doomsday
+
+http://moviezip.net/index.php/component/search/yes%20man?ordering=newest&searchphrase=all
+
+
+http://www.google.com/uds/Gfeeds?callback=h&context=0&num=10&hl=en&output=xml&q=http://zproxy.planet.ee/zmovies/feed.xml&v=1.0&nocache=0
+http://www.google.com/uds/Gfeeds?callback=hh&scoring=h&context=0&num=250&hl=en&output=json&q=http://zproxy.planet.ee/zmovies/feed.xml&v=1.0&nocache=0
+
+http://kej.tw/flvretriever/
+http://www.shinedraw.com/3d-illusion/flash-10-vs-silverlight-3-perspective-3d/
+
+http://vixy.net/images/go-bottom.gif
+
+http://www.rss2html.com/public/rss2html.php?TEMPLATE=template-2-6-1.htm&XMLFILE=http://zproxy.planet.ee/zmovies/feed.xml?6
+http://www.movieposterdb.com/group/ba0872c1
+http://www.movieposterdb.com/movie/1179855/Go-Fast.html
+http://www.omdb.si/index.php/ofilm/?i=432936
+http://moviegoods.com/movie_poster/12_rounds_2009.htm

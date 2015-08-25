@@ -1,0 +1,2067 @@
+﻿<!-- tidy-docs --><html xmlns="http://www.w3.org/1999/xhtml"> 
+<head> 
+  <meta name="generator" content=
+  "HTML Tidy for Linux/x86 (vers 11 February 2007), see www.w3.org" /> 
+  <script type="text/javascript"> 
+//<![CDATA[
+  function a(c){this.t={};this.tick=function(d,e,b){var f=b?b:(new Date).getTime();this.t[d]=[f,e]};this.tick("start",null,c)}var g=new a;window.jstiming={Timer:a,load:g};try{window.jstiming.pt=window.external.pageT}catch(h){};
+  //]]>
+  </script> 
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type" /> 
+  <base target="_top" /> 
+ 
+  <title>IRT0080_34554_labor4</title> 
+  <style type="text/css"> 
+/*<![CDATA[*/
+  /* default css */
+  table {
+  font-size: 1em;
+  line-height: inherit;
+  border-collapse: collapse;
+  }
+  tr {
+  text-align: left;
+  }
+  div, address, ol, ul, li, option, select {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  }
+  p {
+  margin: 0px;
+  }
+  pre {
+  font-family: Courier New;
+  white-space: pre-wrap;
+  margin:0;
+  }
+  body {
+  margin: 6px;
+  padding: 0px;
+  font-family: Verdana, sans-serif;
+  font-size: 10pt;
+  background-color: #ffffff;
+  }
+  img {
+  -moz-force-broken-image-icon: 1;
+  }
+  @media screen {
+  html.pageview {
+  background-color: #f3f3f3 !important;
+  }
+  body {
+  min-height: 1100px;
+  counter-reset: __goog_page__;
+  }
+  * html body {
+  height: 1100px;
+  }
+  .pageview body {
+  border-top: 1px solid #ccc;
+  border-left: 1px solid #ccc;
+  border-right: 2px solid #bbb;
+  border-bottom: 2px solid #bbb;
+  width: 648px !important;
+  margin: 15px auto 25px;
+  padding: 40px 50px;
+  }
+  /* IE6 */
+  * html {
+  overflow-y: scroll;
+  }
+  * html.pageview body {
+  overflow-x: auto;
+  }
+  /* Prevent repaint errors when scrolling in Safari. This "Star-7" css hack
+  targets Safari 3.1, but not WebKit nightlies and presumably Safari 4.
+  That's OK because this bug is fixed in WebKit nightlies/Safari 4 :-). */
+  html*#wys_frame::before {
+  content: '\A0';
+  position: fixed;
+  overflow: hidden;
+  width: 0;
+  height: 0;
+  top: 0;
+  left: 0;
+  }
+  .writely-callout-data {
+  display: none;
+  *display: inline-block;
+  *width: 0;
+  *height: 0;
+  *overflow: hidden;
+  }
+  .writely-footnote-marker {
+  background-image: url('images/footnote_doc_icon.gif');
+  background-color: transparent;
+  background-repeat: no-repeat;
+  width: 7px;
+  overflow: hidden;
+  height: 16px;
+  vertical-align: top;
+  -moz-user-select: none;
+  }
+  .editor .writely-footnote-marker {
+  cursor: move;
+  }
+  .writely-footnote-marker-highlight {
+  background-position: -15px 0;
+  -moz-user-select: text;
+  }
+  .writely-footnote-hide-selection ::-moz-selection, .writely-footnote-hide-selection::-moz-selection {
+  background: transparent;
+  }
+  .writely-footnote-hide-selection ::selection, .writely-footnote-hide-selection::selection {
+  background: transparent;
+  }
+  .writely-footnote-hide-selection {
+  cursor: move;
+  }
+  .editor .writely-comment-yellow {
+  background-color: #FF9;
+  background-position: -240px 0;
+  }
+  .editor .writely-comment-yellow-hover {
+  background-color: #FF0;
+  background-position: -224px 0;
+  }
+  .editor .writely-comment-blue {
+  background-color: #C0D3FF;
+  background-position: -16px 0;
+  }
+  .editor .writely-comment-blue-hover {
+  background-color: #6292FE;
+  background-position: 0 0;
+  }
+  .editor .writely-comment-orange {
+  background-color: #FFDEAD;
+  background-position: -80px 0;
+  }
+  .editor .writely-comment-orange-hover {
+  background-color: #F90;
+  background-position: -64px 0;
+  }
+  .editor .writely-comment-green {
+  background-color: #99FBB3;
+  background-position: -48px 0;
+  }
+  .editor .writely-comment-green-hover {
+  background-color: #00F442;
+  background-position: -32px 0;
+  }
+  .editor .writely-comment-cyan {
+  background-color: #CFF;
+  background-position: -208px 0;
+  }
+  .editor .writely-comment-cyan-hover {
+  background-color: #0FF;
+  background-position: -192px 0;
+  }
+  .editor .writely-comment-purple {
+  background-color: #EBCCFF;
+  background-position: -144px 0;
+  }
+  .editor .writely-comment-purple-hover {
+  background-color: #90F;
+  background-position: -128px 0;
+  }
+  .editor .writely-comment-magenta {
+  background-color: #FCF;
+  background-position: -112px 0;
+  }
+  .editor .writely-comment-magenta-hover {
+  background-color: #F0F;
+  background-position: -96px 0;
+  }
+  .editor .writely-comment-red {
+  background-color: #FFCACA;
+  background-position: -176px 0;
+  }
+  .editor .writely-comment-red-hover {
+  background-color: #FF7A7A;
+  background-position: -160px 0;
+  }
+  .editor .writely-comment-marker {
+  background-image: url('images/markericons_horiz.gif');
+  background-color: transparent;
+  padding-right: 11px;
+  background-repeat: no-repeat;
+  width: 16px;
+  height: 16px;
+  -moz-user-select: none;
+  }
+  .editor .writely-comment-hidden {
+  padding: 0;
+  background: none;
+  }
+  .editor .writely-comment-marker-hidden {
+  background: none;
+  padding: 0;
+  width: 0;
+  }
+  .editor .writely-comment-none {
+  opacity: .2;
+  filter:progid:DXImageTransform.Microsoft.Alpha(opacity=20);
+  -moz-opacity: .2;
+  }
+  .editor .writely-comment-none-hover {
+  opacity: .2;
+  filter:progid:DXImageTransform.Microsoft.Alpha(opacity=20);
+  -moz-opacity: .2;
+  }
+  .br_fix br:not(:-moz-last-node):not(:-moz-first-node) {
+  position:relative;
+  left: -1ex
+  }
+  .br_fix br+br {
+  position: static !important
+  }
+  #cb-p-tgt {
+  font-size: 8pt;
+  padding: .4em;
+  font-style: oblique;
+  background-color: #FFF1A8;
+  border: 1px solid #000;
+  }
+  }
+  h6 { font-size: 8pt }
+  h5 { font-size: 8pt }
+  h4 { font-size: 10pt }
+  h3 { font-size: 12pt }
+  h2 { font-size: 14pt }
+  h1 { font-size: 18pt }
+  blockquote {padding: 10px; border: 1px #DDD dashed }
+  .webkit-indent-blockquote { border: none; }
+  a img {border: 0}
+  .pb {
+  border-width: 0;
+  page-break-after: always;
+  /* We don't want this to be resizeable, so enforce a width and height
+  using !important */
+  height: 1px !important;
+  width: 100% !important;
+  }
+  .editor .pb {
+  border-top: 1px dashed #C0C0C0;
+  border-bottom: 1px dashed #C0C0C0;
+  }
+  div.google_header, div.google_footer {
+  position: relative;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  }
+  /* Table of contents */
+  .editor div.writely-toc {
+  background-color: #f3f3f3;
+  border: 1px solid #ccc;
+  }
+  .writely-toc > ol {
+  padding-left: 3em;
+  font-weight: bold;
+  }
+  ol.writely-toc-subheading {
+  padding-left: 1em;
+  font-weight: normal;
+  }
+  /* IE6 only */
+  * html writely-toc ol {
+  list-style-position: inside;
+  }
+  .writely-toc-none {
+  list-style-type: none;
+  }
+  .writely-toc-decimal {
+  list-style-type: decimal;
+  }
+  .writely-toc-upper-alpha {
+  list-style-type: upper-alpha;
+  }
+  .writely-toc-lower-alpha {
+  list-style-type: lower-alpha;
+  }
+  .writely-toc-upper-roman {
+  list-style-type: upper-roman;
+  }
+  .writely-toc-lower-roman {
+  list-style-type: lower-roman;
+  }
+  .writely-toc-disc {
+  list-style-type: disc;
+  }
+  /* Ordered lists converted to numbered lists can preserve ordered types, and
+  vice versa. This is confusing, so disallow it */
+  ul[type="i"], ul[type="I"], ul[type="1"], ul[type="a"], ul[type="A"] {
+  list-style-type: disc;
+  }
+  ol[type="disc"], ol[type="circle"], ol[type="square"] {
+  list-style-type: decimal;
+  }
+  /* end default css */
+  /* custom css */
+  /* end custom css */
+  /* ui edited css */
+  body {
+  font-family: Verdana;
+  font-size: 10.0pt;
+  line-height: normal;
+  background-color: #ffffff;
+  }
+  /* end ui edited css */
+  /* editor CSS */
+  .editor a:visited {color: #551A8B}
+  .editor table.zeroBorder {border: 1px dotted gray}
+  .editor table.zeroBorder td {border: 1px dotted gray}
+  .editor table.zeroBorder th {border: 1px dotted gray}
+  .editor div.google_header, .editor div.google_footer {
+  border: 2px #DDDDDD dashed;
+  position: static;
+  width: 100%;
+  min-height: 2em;
+  }
+  .editor .misspell {background-color: yellow}
+  .editor .writely-comment {
+  font-size: 9pt;
+  line-height: 1.4;
+  padding: 1px;
+  border: 1px dashed #C0C0C0
+  }
+  /* end editor CSS */
+  /*]]>*/
+  </style> 
+  <style type="text/css"> 
+/*<![CDATA[*/
+  body {
+  margin: 0px;
+  }
+  #doc-contents {
+  margin: 6px;
+  }
+  #google-view-footer {
+  clear: both;
+  border-top: thin solid;
+  padding-top: 0.3em;
+  padding-bottom: 0.3em;
+  }
+  a.google-small-link:link, a.google-small-link:visited {
+  color:#112ABB;
+  font-family:Arial,Sans-serif;
+  font-size:11px !important;
+  }
+  body, p, div, td {
+  direction: inherit;
+  }
+  @media print {
+  #google-view-footer {
+  display: none;
+  }
+  }
+  /*]]>*/
+  </style> 
+  <script type="text/javascript"> 
+//<![CDATA[
+  function viewOnLoad() {
+  if (document.location.href.indexOf('spi=1') != -1) {
+  if (navigator.userAgent.toLowerCase().indexOf('msie') != -1) {
+  window.print();
+  } else {
+  window.setTimeout(window.print, 10);
+  }
+  }
+  if (document.location.href.indexOf('hgd=1') != -1) {
+  var footer = document.getElementById("google-view-footer");
+  if (footer) {
+  footer.style.display = 'none';
+  }
+  }
+  }
+  //]]>
+  </script> 
+  <style type="text/css"> 
+/*<![CDATA[*/
+  div.c18 {float:left}
+  div.c17 {float:right}
+  span.c16 {color:#676767;}
+  table.c15 {WIDTH:508pt}
+  td.c14 {HEIGHT:15pt}
+  tr.c13 {HEIGHT:15pt}
+  td.c12 {WIDTH:21pt}
+  td.c11 {WIDTH:63pt}
+  td.c10 {WIDTH:74pt}
+  td.c9 {WIDTH:104pt}
+  td.c8 {WIDTH:36pt}
+  td.c7 {WIDTH:130pt}
+  td.c6 {HEIGHT:15pt; WIDTH:80pt}
+  p.c5 {font-size: 80%}
+  span.c4 {FONT-WEIGHT: normal; font-size: 80%}
+  span.c3 {FONT-WEIGHT:normal}
+  td.c2 {FONT-WEIGHT:normal}
+  span.c1 {font-size: 80%}
+  /*]]>*/
+  </style> 
+</head> 
+ 
+<body onload=
+"window.jstiming.load.tick('ol'); window.jstiming.report(window.jstiming.load, null, document.location.protocol == 'https:' ? 'https://gg.google.com/csi' : null);"> 
+<div id="doc-contents"> 
+    <h1><a id="IRT0080_34554_labor4" name="IRT0080_34554_labor4"></a>Aruanne - Labor
+    4</h1><br /> 
+    Arvo Sulakatko 2009<br /> 
+    <br /> 
+    K?¤esolev aruanne dokumenteerib labor 4 tegevuspunktid.<br /> 
+    http://lr.ttu.ee/teenused/2009kevad/KTA_Labor4.html<br /> 
+    &nbsp;<br /> 
+    <br /> 
+ 
+    <h2><a id="_Tegijate_nimed" name="_Tegijate_nimed"></a> Tegijate nimed</h2>Arvo
+    Sulakatko<br /> 
+    Anneli Albert<br /> 
+    Julija Mahharinskaja<br /> 
+    <br /> 
+ 
+    <h2><a id="Jaama_konfigureerimise_sammud" name=
+    "Jaama_konfigureerimise_sammud"></a>Jaama konfigureerimise sammud</h2> 
+ 
+    <ol> 
+      <li>??ldised seadistused men?¼?¼st General Settings</li> 
+ 
+      <li>Kasutajate loomine allpool toodud tabeli alusel</li> 
+ 
+      <li>Tutvusime erinevate numbrikombinatsioonidega</li> 
+ 
+      <li>Tekitasime kaks erinevat konverentsi.</li> 
+ 
+      <li>Tekitasime kolme kasutajaga grupinumberi</li> 
+ 
+      <li>Tekitasime k?µnemen?¼?¼</li> 
+ 
+      <li>??hendasime omavahel kokku kaks Asteriski telefonijaama</li> 
+    </ol><br /> 
+ 
+    <div> 
+      <table border="1" cellpadding="3" cellspacing="0" class="" id="icqa" width="100%"> 
+        <tbody> 
+          <tr> 
+            <td width="25%">number<br /></td> 
+ 
+            <td width="25%">nimi<br /></td> 
+ 
+            <td width="25%">operaator<br /></td> 
+ 
+            <td width="25%">konto t?¼?¼p<br /></td> 
+          </tr> 
+ 
+          <tr> 
+            <td width="25%">100<br /></td> 
+ 
+            <td width="25%"> 
+              <pre> 
+yks 
+</pre> 
+            </td> 
+ 
+            <td width="25%"><br /></td> 
+ 
+            <td width="25%">sip1</td> 
+          </tr> 
+ 
+          <tr> 
+            <td width="25%">101<br /></td> 
+ 
+            <td width="25%">kaks<br /></td> 
+ 
+            <td width="25%"><br /></td> 
+ 
+            <td width="25%">sip2</td> 
+          </tr> 
+ 
+          <tr> 
+            <td width="25%">200<br /></td> 
+ 
+            <td width="25%">kolm<br /></td> 
+ 
+            <td width="25%">Anni<br /></td> 
+ 
+            <td width="25%">iax1<br /></td> 
+          </tr> 
+ 
+          <tr> 
+            <td width="25%">201<br /></td> 
+ 
+            <td width="25%">neli<br /></td> 
+ 
+            <td width="25%">Arvo<br /></td> 
+ 
+            <td width="25%">iax2<br /></td> 
+          </tr> 
+        </tbody> 
+      </table> 
+    </div> 
+    <pre> 
+<br />parool 1234<br /><br /> 
+</pre><br /> 
+    <br /> 
+ 
+    <h2><a id="Vastused" name="Vastused"></a>K?¼simuste vastused</h2>Mis aadressilt saab
+    kasutaja kontrollida talle postkasti j?¤etud teateid?<br /> 
+    <br /> 
+    Web serveri aadress on 192.168.252.41. Seda avades on v?µimalik n?¤ha nii teateid kui
+    ka administratiivselt, mis telefonid on mis hetkel aktiivsed.<br /> 
+    <br /> 
+    T?¤pne URL:<br /> 
+    <pre> 
+http://192.168.252.41/menu.php?id=recordings<br /><br /> 
+</pre><br /> 
+    <br /> 
+    Milliste numbrikombinatsioonidega toimub:
+ 
+    <ul> 
+      <li>sissetuleva k?µne simuleerimine: 7777</li> 
+ 
+      <li>k?µikide k?µnede suunamine: *72</li> 
+ 
+      <li>oma telefoninumbri teada saamine: *65</li> 
+ 
+      <li>kaja test ("echo test"): *43<br /></li> 
+ 
+      <li>teenuse "Do-Not-Disturb" aktiveerimine ja deaktiveerimine? *78, *79</li> 
+    </ul><br /> 
+    Mis vahe on "Dial Voicemail" ja "My Voicemail"?<br /> 
+ 
+    <ul> 
+      <li>Dial Voicemail: *98</li> 
+ 
+      <li>My Voicemail: *97</li> 
+    </ul><br /> 
+    Millisel juhul k?¼sitakse kasutaja PINi, millisel juhul telefoninumbrit ja PINi?<br /> 
+    <pre> 
+My Voicemail k?¼sib telefoni numbrit ja pin koodi.
+</pre><br /> 
+ 
+    <h2><a id="_Raportite_anal_s" name="_Raportite_anal_s"></a> Raportite
+    anal?¼?¼s</h2>Logidest on n?¤ha, et telefoni teenust kasutati ajavahemikus <a name=
+    "RANGE!A1:G79">20.05.2009 18:05 kuni 19:32.<br /> 
+    <br /></a> 
+ 
+    <h3><a name="RANGE!A1:G79">Osapooled</a></h3> 
+ 
+    <h3><a name="RANGE!A1:G79"></a></h3> 
+ 
+    <table border="1" cellpadding="3" cellspacing="0" class="" id="o7pd" width="100%"> 
+      <tbody> 
+        <tr> 
+          <td width="33%">numbri nimesilt<br /></td> 
+ 
+          <td width="33%">operaator<br /></td> 
+ 
+          <td width="33%">kommentaar<br /></td> 
+        </tr> 
+ 
+        <tr> 
+          <td class="c2" width="33%"><a name="RANGE!A1:G79"><span class="c1">"kolmsada"
+          &lt;42user&gt;</span></a></td> 
+ 
+          <td width="33%"><span class="c1"><span class="c3">Arvo</span></span><br /></td> 
+ 
+          <td width="33%"><span class="c4">Number teises telefoniv?µrgus</span><br /></td> 
+        </tr> 
+ 
+        <tr> 
+          <td class="c2" width="33%"><span class="c1">"kolm" &lt;200&gt;</span></td> 
+ 
+          <td width="33%"> 
+            <h3><a name="Arvo_15945731968840982_8470422_010802319273352623" id=
+            "Arvo_15945731968840982_8470422_010802319273352623"></a> <span class=
+            "c1"><span class="c3">Arvo</span></span></h3> 
+          </td> 
+ 
+          <td width="33%"><br /></td> 
+        </tr> 
+ 
+        <tr> 
+          <td class="c2" width="33%"><span class="c1">"neli" &lt;201&gt;</span></td> 
+ 
+          <td width="33%"><span class="c1"><span class=
+          "c3">Anneli</span></span><br /></td> 
+ 
+          <td width="33%"><br /></td> 
+        </tr> 
+ 
+        <tr> 
+          <td class="c2" width="33%"><span class="c1">"kaks" &lt;101&gt;</span></td> 
+ 
+          <td width="33%"><span class="c1"><span class=
+          "c3">Julia</span></span><br /></td> 
+ 
+          <td width="33%"><br /></td> 
+        </tr> 
+ 
+        <tr> 
+          <td class="c2" width="33%"> 
+            <p class="c5">"yks" &lt;100&gt;</p> 
+          </td> 
+ 
+          <td width="33%"><br /></td> 
+ 
+          <td width="33%"><span class="c1"><span class="c3">Ei olnud kindlat
+          operaatorit</span></span><br /></td> 
+        </tr> 
+ 
+        <tr> 
+          <td class="c2" width="33%">"gruppkolm" &lt;200&gt;, "gruppneli"
+          &lt;201&gt;</td> 
+ 
+          <td width="33%"> 
+            <h3><a name="Arvo_Anneli_7126190844090555_2_5566123984754086" id=
+            "Arvo_Anneli_7126190844090555_2_5566123984754086"></a> <span class=
+            "c1"><span class="c3">Arvo, Anneli<br /></span></span></h3> 
+          </td> 
+ 
+          <td width="33%"><span class="c3">Tegemist on grupi k?µnega</span><br /></td> 
+        </tr> 
+      </tbody> 
+    </table> 
+  </div><a name="RANGE!A1:G79"><br /> 
+  <br /></a> 
+ 
+  <h3><a name="Kes_kellele_ja_kui_palju_labor" id="Kes_kellele_ja_kui_palju_labor"></a> 
+  Kes kellele ja kui palju labori l?µpuks helistas.</h3> 
+ 
+  <div> 
+    <table border="1" cellpadding="3" cellspacing="0" class="" id="j763" width="100%"> 
+      <tbody> 
+        <tr> 
+          <td width="33%">kes<br /></td> 
+ 
+          <td width="33%">kellele<br /></td> 
+ 
+          <td width="33%">k?µne kestvus<br /></td> 
+        </tr> 
+ 
+        <tr> 
+          <td width="33%">100<br /></td> 
+ 
+          <td width="33%">*97<br /></td> 
+ 
+          <td width="33%">109<br /></td> 
+        </tr> 
+ 
+        <tr> 
+          <td valign="top"><br /></td> 
+ 
+          <td valign="top"><br /></td> 
+ 
+          <td valign="top"><b>109</b><br /></td> 
+        </tr> 
+ 
+        <tr> 
+          <td width="33%">101<br /></td> 
+ 
+          <td width="33%">100<br /></td> 
+ 
+          <td width="33%">173<br /></td> 
+        </tr> 
+ 
+        <tr> 
+          <td width="33%">101<br /></td> 
+ 
+          <td width="33%">200<br /></td> 
+ 
+          <td width="33%">10<br /></td> 
+        </tr> 
+ 
+        <tr> 
+          <td width="33%">101<br /></td> 
+ 
+          <td width="33%">201<br /></td> 
+ 
+          <td width="33%">41<br /></td> 
+        </tr> 
+ 
+        <tr> 
+          <td width="33%">101<br /></td> 
+ 
+          <td width="33%">400<br /></td> 
+ 
+          <td width="33%">7<br /></td> 
+        </tr> 
+ 
+        <tr> 
+          <td valign="top"><br /></td> 
+ 
+          <td valign="top"><br /></td> 
+ 
+          <td valign="top"><b>231</b><br /></td> 
+        </tr> 
+ 
+        <tr> 
+          <td width="33%">200<br /></td> 
+ 
+          <td width="33%">101<br /></td> 
+ 
+          <td width="33%">291<br /></td> 
+        </tr> 
+ 
+        <tr> 
+          <td width="33%">200<br /></td> 
+ 
+          <td width="33%">201<br /></td> 
+ 
+          <td width="33%">404<br /></td> 
+        </tr> 
+ 
+        <tr> 
+          <td width="33%">200<br /></td> 
+ 
+          <td width="33%">300<br /></td> 
+ 
+          <td width="33%">8<br /></td> 
+        </tr> 
+ 
+        <tr> 
+          <td width="33%">200<br /></td> 
+ 
+          <td width="33%">600<br /></td> 
+ 
+          <td width="33%">86<br /></td> 
+        </tr> 
+ 
+        <tr> 
+          <td valign="top"><br /></td> 
+ 
+          <td valign="top"><br /></td> 
+ 
+          <td valign="top"><b>789</b><br /></td> 
+        </tr> 
+ 
+        <tr> 
+          <td width="33%">201<br /></td> 
+ 
+          <td width="33%">101<br /></td> 
+ 
+          <td width="33%">355<br /></td> 
+        </tr> 
+ 
+        <tr> 
+          <td width="33%">201<br /></td> 
+ 
+          <td width="33%">200<br /></td> 
+ 
+          <td width="33%">187<br /></td> 
+        </tr> 
+ 
+        <tr> 
+          <td width="33%">201<br /></td> 
+ 
+          <td width="33%">600<br /></td> 
+ 
+          <td width="33%">59<br /></td> 
+        </tr> 
+ 
+        <tr> 
+          <td width="33%">201<br /></td> 
+ 
+          <td width="33%">ring<br /></td> 
+ 
+          <td width="33%">97<br /></td> 
+        </tr> 
+ 
+        <tr> 
+          <td valign="top"><br /></td> 
+ 
+          <td valign="top"><br /></td> 
+ 
+          <td valign="top"><b>698</b><br /></td> 
+        </tr> 
+      </tbody> 
+    </table> 
+  </div><br /> 
+  Suurim r?¤?¤kija oli operaator Arvo numbrilt 200, teine operaator Anneli numbrilt
+  201.<br /> 
+  <br /> 
+  Kui kaua oli telefonil peal "Do-Not-Disturb" teenus, "feature codes"<br /> 
+  <br /> 
+  <b>"kolm" &lt;200&gt; kasutas DND teenust 18:24 kuni 18:25<br /></b><b>"neli"
+  &lt;201&gt; kasutas DND teenust 18:25 kuni 19:00</b><br /> 
+ 
+  <h2><a id="Logi" name="Logi"></a>Logi</h2> 
+ 
+  <table border="0" cellpadding="0" cellspacing="0" class="zeroBorder c15" width="676"> 
+    <tbody> 
+      <tr class="c13"> 
+        <td align="right" class="xl63 c6" height="20" width="107"><a name=
+        "RANGE!A1:G79">20.05.2009 18:05</a></td> 
+ 
+        <td class="c7" width="173">SIP/101-09ee4f80</td> 
+ 
+        <td align="right" class="c8" width="48">101</td> 
+ 
+        <td class="c9" width="138">"kaks" &lt;101&gt;</td> 
+ 
+        <td align="right" class="c10" width="98">100</td> 
+ 
+        <td class="c11" width="84">ANSWERED</td> 
+ 
+        <td align="right" class="c12" width="28">54</td> 
+      </tr> 
+ 
+      <tr class="c13"> 
+        <td align="right" class="xl63 c14" height="20">20.05.2009 18:06</td> 
+ 
+        <td>SIP/101-09ee4f80</td> 
+ 
+        <td align="right">101</td> 
+ 
+        <td>"kaks" &lt;101&gt;</td> 
+ 
+        <td>*65</td> 
+ 
+        <td>ANSWERED</td> 
+ 
+        <td align="right">8</td> 
+      </tr> 
+ 
+      <tr class="c13"> 
+        <td align="right" class="xl63 c14" height="20">20.05.2009 18:07</td> 
+ 
+        <td>IAX2/200-15480</td> 
+ 
+        <td align="right">200</td> 
+ 
+        <td>"kolm" &lt;200&gt;</td> 
+ 
+        <td align="right">101</td> 
+ 
+        <td>ANSWERED</td> 
+ 
+        <td align="right">138</td> 
+      </tr> 
+ 
+      <tr class="c13"> 
+        <td align="right" class="xl63 c14" height="20">20.05.2009 18:09</td> 
+ 
+        <td>IAX2/201-490</td> 
+ 
+        <td align="right">201</td> 
+ 
+        <td>"neli" &lt;201&gt;</td> 
+ 
+        <td align="right">200</td> 
+ 
+        <td>ANSWERED</td> 
+ 
+        <td align="right">52</td> 
+      </tr> 
+ 
+      <tr class="c13"> 
+        <td align="right" class="xl63 c14" height="20">20.05.2009 18:10</td> 
+ 
+        <td>Local/s@from-pstn-d738,2</td> 
+ 
+        <td align="right">101</td> 
+ 
+        <td>"kaks" &lt;101&gt;</td> 
+ 
+        <td>s</td> 
+ 
+        <td>ANSWERED</td> 
+ 
+        <td align="right">8</td> 
+      </tr> 
+ 
+      <tr class="c13"> 
+        <td align="right" class="xl63 c14" height="20">20.05.2009 18:09</td> 
+ 
+        <td>SIP/101-09ee4f80</td> 
+ 
+        <td align="right">101</td> 
+ 
+        <td>"kaks" &lt;101&gt;</td> 
+ 
+        <td align="right">100</td> 
+ 
+        <td>ANSWERED</td> 
+ 
+        <td align="right">61</td> 
+      </tr> 
+ 
+      <tr class="c13"> 
+        <td align="right" class="xl63 c14" height="20">20.05.2009 18:12</td> 
+ 
+        <td>Local/s@from-pstn-408f,2</td> 
+ 
+        <td align="right">101</td> 
+ 
+        <td>"kaks" &lt;101&gt;</td> 
+ 
+        <td>s</td> 
+ 
+        <td>ANSWERED</td> 
+ 
+        <td align="right">7</td> 
+      </tr> 
+ 
+      <tr class="c13"> 
+        <td align="right" class="xl63 c14" height="20">20.05.2009 18:11</td> 
+ 
+        <td>SIP/101-09ee4f80</td> 
+ 
+        <td align="right">101</td> 
+ 
+        <td>"kaks" &lt;101&gt;</td> 
+ 
+        <td align="right">100</td> 
+ 
+        <td>ANSWERED</td> 
+ 
+        <td align="right">58</td> 
+      </tr> 
+ 
+      <tr class="c13"> 
+        <td align="right" class="xl63 c14" height="20">20.05.2009 18:11</td> 
+ 
+        <td>IAX2/200-10373</td> 
+ 
+        <td align="right">200</td> 
+ 
+        <td>"kolm" &lt;200&gt;</td> 
+ 
+        <td align="right">201</td> 
+ 
+        <td>ANSWERED</td> 
+ 
+        <td align="right">277</td> 
+      </tr> 
+ 
+      <tr class="c13"> 
+        <td align="right" class="xl63 c14" height="20">20.05.2009 18:19</td> 
+ 
+        <td>IAX2/200-3732</td> 
+ 
+        <td align="right">200</td> 
+ 
+        <td>"kolm" &lt;200&gt;</td> 
+ 
+        <td>*97</td> 
+ 
+        <td>ANSWERED</td> 
+ 
+        <td align="right">21</td> 
+      </tr> 
+ 
+      <tr class="c13"> 
+        <td align="right" class="xl63 c14" height="20">20.05.2009 18:19</td> 
+ 
+        <td>SIP/100-09eeef50</td> 
+ 
+        <td align="right">100</td> 
+ 
+        <td>"yks" &lt;100&gt;</td> 
+ 
+        <td>*97</td> 
+ 
+        <td>ANSWERED</td> 
+ 
+        <td align="right">36</td> 
+      </tr> 
+ 
+      <tr class="c13"> 
+        <td align="right" class="xl63 c14" height="20">20.05.2009 18:19</td> 
+ 
+        <td>IAX2/200-13523</td> 
+ 
+        <td align="right">200</td> 
+ 
+        <td>"kolm" &lt;200&gt;</td> 
+ 
+        <td>*97</td> 
+ 
+        <td>ANSWERED</td> 
+ 
+        <td align="right">25</td> 
+      </tr> 
+ 
+      <tr class="c13"> 
+        <td align="right" class="xl63 c14" height="20">20.05.2009 18:19</td> 
+ 
+        <td>SIP/100-09eeeef0</td> 
+ 
+        <td align="right">100</td> 
+ 
+        <td>"yks" &lt;100&gt;</td> 
+ 
+        <td>*97</td> 
+ 
+        <td>ANSWERED</td> 
+ 
+        <td align="right">33</td> 
+      </tr> 
+ 
+      <tr class="c13"> 
+        <td align="right" class="xl63 c14" height="20">20.05.2009 18:20</td> 
+ 
+        <td>SIP/100-09eeeef0</td> 
+ 
+        <td align="right">100</td> 
+ 
+        <td>"yks" &lt;100&gt;</td> 
+ 
+        <td>*97</td> 
+ 
+        <td>ANSWERED</td> 
+ 
+        <td align="right">40</td> 
+      </tr> 
+ 
+      <tr class="c13"> 
+        <td align="right" class="xl63 c14" height="20">20.05.2009 18:20</td> 
+ 
+        <td>IAX2/200-1494</td> 
+ 
+        <td><br /></td> 
+ 
+        <td><br /></td> 
+ 
+        <td>*98</td> 
+ 
+        <td>ANSWERED</td> 
+ 
+        <td align="right">114</td> 
+      </tr> 
+ 
+      <tr class="c13"> 
+        <td align="right" class="xl63 c14" height="20">20.05.2009 18:18</td> 
+ 
+        <td>IAX2/201-15297</td> 
+ 
+        <td><br /></td> 
+ 
+        <td><br /></td> 
+ 
+        <td>*98</td> 
+ 
+        <td>ANSWERED</td> 
+ 
+        <td align="right">234</td> 
+      </tr> 
+ 
+      <tr class="c13"> 
+        <td align="right" class="xl63 c14" height="20">20.05.2009 18:22</td> 
+ 
+        <td>IAX2/201-10085</td> 
+ 
+        <td align="right">201</td> 
+ 
+        <td>"neli" &lt;201&gt;</td> 
+ 
+        <td>*72</td> 
+ 
+        <td>ANSWERED</td> 
+ 
+        <td align="right">16</td> 
+      </tr> 
+ 
+      <tr class="c13"> 
+        <td align="right" class="xl63 c14" height="20">20.05.2009 18:23</td> 
+ 
+        <td>IAX2/200-5899</td> 
+ 
+        <td align="right">200</td> 
+ 
+        <td>"kolm" &lt;200&gt;</td> 
+ 
+        <td>*65</td> 
+ 
+        <td>ANSWERED</td> 
+ 
+        <td align="right">8</td> 
+      </tr> 
+ 
+      <tr class="c13"> 
+        <td align="right" class="xl63 c14" height="20">20.05.2009 18:23</td> 
+ 
+        <td>IAX2/201-1347</td> 
+ 
+        <td align="right">201</td> 
+ 
+        <td>"neli" &lt;201&gt;</td> 
+ 
+        <td>*72</td> 
+ 
+        <td>ANSWERED</td> 
+ 
+        <td align="right">42</td> 
+      </tr> 
+ 
+      <tr class="c13"> 
+        <td align="right" class="xl63 c14" height="20">20.05.2009 18:23</td> 
+ 
+        <td>IAX2/200-15792</td> 
+ 
+        <td align="right">200</td> 
+ 
+        <td>"kolm" &lt;200&gt;</td> 
+ 
+        <td>*65</td> 
+ 
+        <td>ANSWERED</td> 
+ 
+        <td align="right">8</td> 
+      </tr> 
+ 
+      <tr class="c13"> 
+        <td align="right" class="xl63 c14" height="20">20.05.2009 18:24</td> 
+ 
+        <td>IAX2/201-11232</td> 
+ 
+        <td align="right">201</td> 
+ 
+        <td>"neli" &lt;201&gt;</td> 
+ 
+        <td>*65</td> 
+ 
+        <td>ANSWERED</td> 
+ 
+        <td align="right">8</td> 
+      </tr> 
+ 
+      <tr class="c13"> 
+        <td align="right" class="xl63 c14" height="20">20.05.2009 18:24</td> 
+ 
+        <td>IAX2/200-2718</td> 
+ 
+        <td><br /></td> 
+ 
+        <td><br /></td> 
+ 
+        <td>*43</td> 
+ 
+        <td>ANSWERED</td> 
+ 
+        <td align="right">16</td> 
+      </tr> 
+ 
+      <tr class="c13"> 
+        <td align="right" class="xl63 c14" height="20"><b>20.05.2009 18:24</b></td> 
+ 
+        <td><b>IAX2/200-1901</b></td> 
+ 
+        <td align="right"><b>200</b></td> 
+ 
+        <td><b>"kolm" &lt;200&gt;</b></td> 
+ 
+        <td><b>*78</b></td> 
+ 
+        <td><b>ANSWERED</b></td> 
+ 
+        <td align="right"><b>4</b></td> 
+      </tr> 
+ 
+      <tr class="c13"> 
+        <td align="right" class="xl63 c14" height="20">20.05.2009 18:24</td> 
+ 
+        <td>IAX2/201-3763</td> 
+ 
+        <td><br /></td> 
+ 
+        <td><br /></td> 
+ 
+        <td>*43</td> 
+ 
+        <td>ANSWERED</td> 
+ 
+        <td align="right">27</td> 
+      </tr> 
+ 
+      <tr class="c13"> 
+        <td align="right" class="xl63 c14" height="20"><b>20.05.2009 18:25</b></td> 
+ 
+        <td><b>IAX2/200-3090</b></td> 
+ 
+        <td align="right"><b>200</b></td> 
+ 
+        <td><b>"kolm" &lt;200&gt;</b></td> 
+ 
+        <td><b>*79</b></td> 
+ 
+        <td><b>ANSWERED</b></td> 
+ 
+        <td align="right"><b>4</b></td> 
+      </tr> 
+ 
+      <tr class="c13"> 
+        <td align="right" class="xl63 c14" height="20">20.05.2009 18:25</td> 
+ 
+        <td>IAX2/201-1893</td> 
+ 
+        <td><br /></td> 
+ 
+        <td><br /></td> 
+ 
+        <td>*98</td> 
+ 
+        <td>ANSWERED</td> 
+ 
+        <td align="right">37</td> 
+      </tr> 
+ 
+      <tr class="c13"> 
+        <td align="right" class="xl63 c14" height="20"><b>20.05.2009 18:25</b></td> 
+ 
+        <td><b>IAX2/201-9462</b></td> 
+ 
+        <td align="right"><b>201</b></td> 
+ 
+        <td><b>"neli" &lt;201&gt;</b></td> 
+ 
+        <td><b>*78</b></td> 
+ 
+        <td><b>ANSWERED</b></td> 
+ 
+        <td align="right"><b>3</b></td> 
+      </tr> 
+ 
+      <tr class="c13"> 
+        <td align="right" class="xl63 c14" height="20">20.05.2009 18:26</td> 
+ 
+        <td>IAX2/200-8476</td> 
+ 
+        <td align="right">200</td> 
+ 
+        <td>"kolm" &lt;200&gt;</td> 
+ 
+        <td align="right">200</td> 
+ 
+        <td>ANSWERED</td> 
+ 
+        <td align="right">28</td> 
+      </tr> 
+ 
+      <tr class="c13"> 
+        <td align="right" class="xl63 c14" height="20">20.05.2009 18:26</td> 
+ 
+        <td>IAX2/200-3792</td> 
+ 
+        <td align="right">200</td> 
+ 
+        <td>"kolm" &lt;200&gt;</td> 
+ 
+        <td align="right">200</td> 
+ 
+        <td>ANSWERED</td> 
+ 
+        <td align="right">18</td> 
+      </tr> 
+ 
+      <tr class="c13"> 
+        <td align="right" class="xl63 c14" height="20">20.05.2009 18:27</td> 
+ 
+        <td>IAX2/201-9458</td> 
+ 
+        <td align="right">201</td> 
+ 
+        <td>"neli" &lt;201&gt;</td> 
+ 
+        <td>*72</td> 
+ 
+        <td>ANSWERED</td> 
+ 
+        <td align="right">30</td> 
+      </tr> 
+ 
+      <tr class="c13"> 
+        <td align="right" class="xl63 c14" height="20">20.05.2009 18:28</td> 
+ 
+        <td>IAX2/201-11518</td> 
+ 
+        <td align="right">201</td> 
+ 
+        <td>"neli" &lt;201&gt;</td> 
+ 
+        <td align="right">201</td> 
+ 
+        <td>ANSWERED</td> 
+ 
+        <td align="right">26</td> 
+      </tr> 
+ 
+      <tr class="c13"> 
+        <td align="right" class="xl63 c14" height="20">20.05.2009 18:29</td> 
+ 
+        <td>IAX2/201-15175</td> 
+ 
+        <td align="right">201</td> 
+ 
+        <td>"neli" &lt;201&gt;</td> 
+ 
+        <td align="right">200</td> 
+ 
+        <td>ANSWERED</td> 
+ 
+        <td align="right">16</td> 
+      </tr> 
+ 
+      <tr class="c13"> 
+        <td align="right" class="xl63 c14" height="20">20.05.2009 18:29</td> 
+ 
+        <td>IAX2/201-14297</td> 
+ 
+        <td align="right">201</td> 
+ 
+        <td>"neli" &lt;201&gt;</td> 
+ 
+        <td align="right">100</td> 
+ 
+        <td>NO ANSWER</td> 
+ 
+        <td align="right">10</td> 
+      </tr> 
+ 
+      <tr class="c13"> 
+        <td align="right" class="xl63 c14" height="20">20.05.2009 18:29</td> 
+ 
+        <td>SIP/101-09f236d0</td> 
+ 
+        <td align="right">101</td> 
+ 
+        <td>"kaks" &lt;101&gt;</td> 
+ 
+        <td align="right">201</td> 
+ 
+        <td>ANSWERED</td> 
+ 
+        <td align="right">18</td> 
+      </tr> 
+ 
+      <tr class="c13"> 
+        <td align="right" class="xl63 c14" height="20">20.05.2009 18:30</td> 
+ 
+        <td>IAX2/201-2464</td> 
+ 
+        <td align="right">201</td> 
+ 
+        <td>"neli" &lt;201&gt;</td> 
+ 
+        <td align="right">100</td> 
+ 
+        <td>NO ANSWER</td> 
+ 
+        <td align="right">9</td> 
+      </tr> 
+ 
+      <tr class="c13"> 
+        <td align="right" class="xl63 c14" height="20">20.05.2009 18:29</td> 
+ 
+        <td>IAX2/200-4622</td> 
+ 
+        <td align="right">200</td> 
+ 
+        <td>"kolm" &lt;200&gt;</td> 
+ 
+        <td align="right">201</td> 
+ 
+        <td>ANSWERED</td> 
+ 
+        <td align="right">91</td> 
+      </tr> 
+ 
+      <tr class="c13"> 
+        <td align="right" class="xl63 c14" height="20">20.05.2009 18:30</td> 
+ 
+        <td>IAX2/201-2235</td> 
+ 
+        <td align="right">201</td> 
+ 
+        <td>"neli" &lt;201&gt;</td> 
+ 
+        <td align="right">101</td> 
+ 
+        <td>ANSWERED</td> 
+ 
+        <td align="right">52</td> 
+      </tr> 
+ 
+      <tr class="c13"> 
+        <td align="right" class="xl63 c14" height="20">20.05.2009 18:30</td> 
+ 
+        <td>IAX2/201-8211</td> 
+ 
+        <td align="right">201</td> 
+ 
+        <td>"neli" &lt;201&gt;</td> 
+ 
+        <td align="right">101</td> 
+ 
+        <td>ANSWERED</td> 
+ 
+        <td align="right">96</td> 
+      </tr> 
+ 
+      <tr class="c13"> 
+        <td align="right" class="xl63 c14" height="20">20.05.2009 18:31</td> 
+ 
+        <td>IAX2/200-15450</td> 
+ 
+        <td align="right">200</td> 
+ 
+        <td>"kolm" &lt;200&gt;</td> 
+ 
+        <td align="right">101</td> 
+ 
+        <td>ANSWERED</td> 
+ 
+        <td align="right">136</td> 
+      </tr> 
+ 
+      <tr class="c13"> 
+        <td align="right" class="xl63 c14" height="20">20.05.2009 18:33</td> 
+ 
+        <td>IAX2/200-11559</td> 
+ 
+        <td align="right">200</td> 
+ 
+        <td>"kolm" &lt;200&gt;</td> 
+ 
+        <td align="right">201</td> 
+ 
+        <td>ANSWERED</td> 
+ 
+        <td align="right">13</td> 
+      </tr> 
+ 
+      <tr class="c13"> 
+        <td align="right" class="xl63 c14" height="20">20.05.2009 18:33</td> 
+ 
+        <td>IAX2/201-1896</td> 
+ 
+        <td align="right">201</td> 
+ 
+        <td>"neli" &lt;201&gt;</td> 
+ 
+        <td align="right">200</td> 
+ 
+        <td>ANSWERED</td> 
+ 
+        <td align="right">15</td> 
+      </tr> 
+ 
+      <tr class="c13"> 
+        <td align="right" class="xl63 c14" height="20">20.05.2009 18:35</td> 
+ 
+        <td>IAX2/200-14790</td> 
+ 
+        <td align="right">200</td> 
+ 
+        <td>"kolm" &lt;200&gt;</td> 
+ 
+        <td align="right">101</td> 
+ 
+        <td>ANSWERED</td> 
+ 
+        <td align="right">12</td> 
+      </tr> 
+ 
+      <tr class="c13"> 
+        <td align="right" class="xl63 c14" height="20">20.05.2009 18:35</td> 
+ 
+        <td>IAX2/201-1733</td> 
+ 
+        <td align="right">201</td> 
+ 
+        <td>"neli" &lt;201&gt;</td> 
+ 
+        <td align="right">101</td> 
+ 
+        <td>ANSWERED</td> 
+ 
+        <td align="right">207</td> 
+      </tr> 
+ 
+      <tr class="c13"> 
+        <td align="right" class="xl63 c14" height="20">20.05.2009 18:38</td> 
+ 
+        <td>SIP/101-09f1e240</td> 
+ 
+        <td align="right">101</td> 
+ 
+        <td>"kaks" &lt;101&gt;</td> 
+ 
+        <td align="right">400</td> 
+ 
+        <td>ANSWERED</td> 
+ 
+        <td align="right">7</td> 
+      </tr> 
+ 
+      <tr class="c13"> 
+        <td align="right" class="xl63 c14" height="20">20.05.2009 18:38</td> 
+ 
+        <td>IAX2/200-8990</td> 
+ 
+        <td align="right">200</td> 
+ 
+        <td>"kolm" &lt;200&gt;</td> 
+ 
+        <td>STARTMEETME</td> 
+ 
+        <td>ANSWERED</td> 
+ 
+        <td align="right">234</td> 
+      </tr> 
+ 
+      <tr class="c13"> 
+        <td align="right" class="xl63 c14" height="20">20.05.2009 18:38</td> 
+ 
+        <td>SIP/101-09f1e240</td> 
+ 
+        <td align="right">101</td> 
+ 
+        <td>"kaks" &lt;101&gt;</td> 
+ 
+        <td>STARTMEETME</td> 
+ 
+        <td>ANSWERED</td> 
+ 
+        <td align="right">225</td> 
+      </tr> 
+ 
+      <tr class="c13"> 
+        <td align="right" class="xl63 c14" height="20">20.05.2009 18:37</td> 
+ 
+        <td>IAX2/201-2160</td> 
+ 
+        <td align="right">201</td> 
+ 
+        <td>"neli" &lt;201&gt;</td> 
+ 
+        <td>STARTMEETME</td> 
+ 
+        <td>ANSWERED</td> 
+ 
+        <td align="right">697</td> 
+      </tr> 
+ 
+      <tr class="c13"> 
+        <td align="right" class="xl63 c14" height="20">20.05.2009 18:49</td> 
+ 
+        <td>IAX2/201-8999</td> 
+ 
+        <td align="right">201</td> 
+ 
+        <td>"neli" &lt;201&gt;</td> 
+ 
+        <td>ring</td> 
+ 
+        <td>ANSWERED</td> 
+ 
+        <td align="right">51</td> 
+      </tr> 
+ 
+      <tr class="c13"> 
+        <td align="right" class="xl63 c14" height="20">20.05.2009 18:50</td> 
+ 
+        <td>IAX2/201-9783</td> 
+ 
+        <td align="right">201</td> 
+ 
+        <td>"neli" &lt;201&gt;</td> 
+ 
+        <td>ring</td> 
+ 
+        <td>ANSWERED</td> 
+ 
+        <td align="right">46</td> 
+      </tr> 
+ 
+      <tr class="c13"> 
+        <td align="right" class="xl63 c14" height="20">20.05.2009 18:51</td> 
+ 
+        <td>IAX2/201-15026</td> 
+ 
+        <td align="right">201</td> 
+ 
+        <td>"600neli" &lt;201&gt;</td> 
+ 
+        <td align="right">600</td> 
+ 
+        <td>NO ANSWER</td> 
+ 
+        <td align="right">48</td> 
+      </tr> 
+ 
+      <tr class="c13"> 
+        <td align="right" class="xl63 c14" height="20">20.05.2009 18:52</td> 
+ 
+        <td>IAX2/201-1633</td> 
+ 
+        <td align="right">201</td> 
+ 
+        <td>"600neli" &lt;201&gt;</td> 
+ 
+        <td align="right">600</td> 
+ 
+        <td>NO ANSWER</td> 
+ 
+        <td align="right">5</td> 
+      </tr> 
+ 
+      <tr class="c13"> 
+        <td align="right" class="xl63 c14" height="20">20.05.2009 18:52</td> 
+ 
+        <td>IAX2/201-14680</td> 
+ 
+        <td align="right">201</td> 
+ 
+        <td>"600neli" &lt;201&gt;</td> 
+ 
+        <td align="right">600</td> 
+ 
+        <td>NO ANSWER</td> 
+ 
+        <td align="right">31</td> 
+      </tr> 
+ 
+      <tr class="c13"> 
+        <td align="right" class="xl63 c14" height="20">20.05.2009 18:53</td> 
+ 
+        <td>IAX2/201-933</td> 
+ 
+        <td align="right">201</td> 
+ 
+        <td>"gruppneli" &lt;201&gt;</td> 
+ 
+        <td align="right">600</td> 
+ 
+        <td>NO ANSWER</td> 
+ 
+        <td align="right">30</td> 
+      </tr> 
+ 
+      <tr class="c13"> 
+        <td align="right" class="xl63 c14" height="20">20.05.2009 18:53</td> 
+ 
+        <td>IAX2/201-3517</td> 
+ 
+        <td align="right">201</td> 
+ 
+        <td>"gruppneli" &lt;201&gt;</td> 
+ 
+        <td align="right">600</td> 
+ 
+        <td>ANSWERED</td> 
+ 
+        <td align="right">59</td> 
+      </tr> 
+ 
+      <tr class="c13"> 
+        <td align="right" class="xl63 c14" height="20">20.05.2009 18:55</td> 
+ 
+        <td>IAX2/201-5355</td> 
+ 
+        <td align="right">201</td> 
+ 
+        <td>"neli" &lt;201&gt;</td> 
+ 
+        <td>*73</td> 
+ 
+        <td>ANSWERED</td> 
+ 
+        <td align="right">4</td> 
+      </tr> 
+ 
+      <tr class="c13"> 
+        <td align="right" class="xl63 c14" height="20"><b>20.05.2009 18:56</b></td> 
+ 
+        <td><b>IAX2/200-11485</b></td> 
+ 
+        <td align="right"><b>200</b></td> 
+ 
+        <td><b>"kolm" &lt;200&gt;</b></td> 
+ 
+        <td><b>*79</b></td> 
+ 
+        <td><b>ANSWERED</b></td> 
+ 
+        <td align="right"><b>4</b></td> 
+      </tr> 
+ 
+      <tr class="c13"> 
+        <td align="right" class="xl63 c14" height="20">20.05.2009 18:55</td> 
+ 
+        <td>IAX2/201-5762</td> 
+ 
+        <td align="right">201</td> 
+ 
+        <td>"neli" &lt;201&gt;</td> 
+ 
+        <td align="right">200</td> 
+ 
+        <td>ANSWERED</td> 
+ 
+        <td align="right">54</td> 
+      </tr> 
+ 
+      <tr class="c13"> 
+        <td align="right" class="xl63 c14" height="20">20.05.2009 18:56</td> 
+ 
+        <td>IAX2/201-8284</td> 
+ 
+        <td align="right">201</td> 
+ 
+        <td>"neli" &lt;201&gt;</td> 
+ 
+        <td align="right">200</td> 
+ 
+        <td>ANSWERED</td> 
+ 
+        <td align="right">13</td> 
+      </tr> 
+ 
+      <tr class="c13"> 
+        <td align="right" class="xl63 c14" height="20">20.05.2009 18:56</td> 
+ 
+        <td>IAX2/200-10923</td> 
+ 
+        <td align="right">200</td> 
+ 
+        <td>"kolm" &lt;200&gt;</td> 
+ 
+        <td align="right">201</td> 
+ 
+        <td>ANSWERED</td> 
+ 
+        <td align="right">9</td> 
+      </tr> 
+ 
+      <tr class="c13"> 
+        <td align="right" class="xl63 c14" height="20">20.05.2009 18:57</td> 
+ 
+        <td>IAX2/200-3540</td> 
+ 
+        <td align="right">200</td> 
+ 
+        <td>"kolm" &lt;200&gt;</td> 
+ 
+        <td align="right">201</td> 
+ 
+        <td>ANSWERED</td> 
+ 
+        <td align="right">6</td> 
+      </tr> 
+ 
+      <tr class="c13"> 
+        <td align="right" class="xl63 c14" height="20">20.05.2009 18:57</td> 
+ 
+        <td>IAX2/200-12739</td> 
+ 
+        <td align="right">200</td> 
+ 
+        <td>"kolm" &lt;200&gt;</td> 
+ 
+        <td>*73</td> 
+ 
+        <td>ANSWERED</td> 
+ 
+        <td align="right">5</td> 
+      </tr> 
+ 
+      <tr class="c13"> 
+        <td align="right" class="xl63 c14" height="20">20.05.2009 18:57</td> 
+ 
+        <td>IAX2/200-234</td> 
+ 
+        <td align="right">200</td> 
+ 
+        <td>"kolm" &lt;200&gt;</td> 
+ 
+        <td align="right">201</td> 
+ 
+        <td>ANSWERED</td> 
+ 
+        <td align="right">4</td> 
+      </tr> 
+ 
+      <tr class="c13"> 
+        <td align="right" class="xl63 c14" height="20">20.05.2009 18:58</td> 
+ 
+        <td>IAX2/200-8325</td> 
+ 
+        <td align="right">200</td> 
+ 
+        <td>"kolm" &lt;200&gt;</td> 
+ 
+        <td align="right">101</td> 
+ 
+        <td>NO ANSWER</td> 
+ 
+        <td align="right">5</td> 
+      </tr> 
+ 
+      <tr class="c13"> 
+        <td align="right" class="xl63 c14" height="20">20.05.2009 18:58</td> 
+ 
+        <td>SIP/101-b7401158</td> 
+ 
+        <td align="right">101</td> 
+ 
+        <td>"kaks" &lt;101&gt;</td> 
+ 
+        <td align="right">201</td> 
+ 
+        <td>ANSWERED</td> 
+ 
+        <td align="right">9</td> 
+      </tr> 
+ 
+      <tr class="c13"> 
+        <td align="right" class="xl63 c14" height="20">20.05.2009 18:58</td> 
+ 
+        <td>SIP/101-b7401158</td> 
+ 
+        <td align="right">101</td> 
+ 
+        <td>"kaks" &lt;101&gt;</td> 
+ 
+        <td align="right">200</td> 
+ 
+        <td>ANSWERED</td> 
+ 
+        <td align="right">5</td> 
+      </tr> 
+ 
+      <tr class="c13"> 
+        <td align="right" class="xl63 c14" height="20">20.05.2009 18:59</td> 
+ 
+        <td>IAX2/200-6762</td> 
+ 
+        <td align="right">200</td> 
+ 
+        <td>"kolm" &lt;200&gt;</td> 
+ 
+        <td align="right">201</td> 
+ 
+        <td>ANSWERED</td> 
+ 
+        <td align="right">2</td> 
+      </tr> 
+ 
+      <tr class="c13"> 
+        <td align="right" class="xl63 c14" height="20">20.05.2009 18:59</td> 
+ 
+        <td>IAX2/200-4329</td> 
+ 
+        <td align="right">200</td> 
+ 
+        <td>"kolm" &lt;200&gt;</td> 
+ 
+        <td align="right">201</td> 
+ 
+        <td>ANSWERED</td> 
+ 
+        <td align="right">2</td> 
+      </tr> 
+ 
+      <tr class="c13"> 
+        <td align="right" class="xl63 c14" height="20">20.05.2009 18:59</td> 
+ 
+        <td>SIP/101-b7401fb8</td> 
+ 
+        <td align="right">101</td> 
+ 
+        <td>"kaks" &lt;101&gt;</td> 
+ 
+        <td align="right">201</td> 
+ 
+        <td>ANSWERED</td> 
+ 
+        <td align="right">10</td> 
+      </tr> 
+ 
+      <tr class="c13"> 
+        <td align="right" class="xl63 c14" height="20">20.05.2009 18:59</td> 
+ 
+        <td>SIP/101-b74006c8</td> 
+ 
+        <td align="right">101</td> 
+ 
+        <td>"kaks" &lt;101&gt;</td> 
+ 
+        <td align="right">200</td> 
+ 
+        <td>NO ANSWER</td> 
+ 
+        <td align="right">5</td> 
+      </tr> 
+ 
+      <tr class="c13"> 
+        <td align="right" class="xl63 c14" height="20"><b>20.05.2009 19:00</b></td> 
+ 
+        <td><b>IAX2/201-8520</b></td> 
+ 
+        <td align="right"><b>201</b></td> 
+ 
+        <td><b>"neli" &lt;201&gt;</b></td> 
+ 
+        <td><b>*79</b></td> 
+ 
+        <td><b>ANSWERED</b></td> 
+ 
+        <td align="right"><b>4</b></td> 
+      </tr> 
+ 
+      <tr class="c13"> 
+        <td align="right" class="xl63 c14" height="20">20.05.2009 19:00</td> 
+ 
+        <td>SIP/101-b7400820</td> 
+ 
+        <td align="right">101</td> 
+ 
+        <td>"kaks" &lt;101&gt;</td> 
+ 
+        <td align="right">201</td> 
+ 
+        <td>ANSWERED</td> 
+ 
+        <td align="right">4</td> 
+      </tr> 
+ 
+      <tr class="c13"> 
+        <td align="right" class="xl63 c14" height="20">20.05.2009 19:00</td> 
+ 
+        <td>IAX2/200-16220</td> 
+ 
+        <td align="right">200</td> 
+ 
+        <td>"kolm" &lt;200&gt;</td> 
+ 
+        <td align="right">201</td> 
+ 
+        <td>NO ANSWER</td> 
+ 
+        <td align="right">3</td> 
+      </tr> 
+ 
+      <tr class="c13"> 
+        <td align="right" class="xl63 c14" height="20">20.05.2009 19:02</td> 
+ 
+        <td>IAX2/200-11213</td> 
+ 
+        <td align="right">200</td> 
+ 
+        <td>"kolm" &lt;200&gt;</td> 
+ 
+        <td>*77</td> 
+ 
+        <td>ANSWERED</td> 
+ 
+        <td align="right">10</td> 
+      </tr> 
+ 
+      <tr class="c13"> 
+        <td align="right" class="xl63 c14" height="20">20.05.2009 19:02</td> 
+ 
+        <td>IAX2/200-13868</td> 
+ 
+        <td align="right">200</td> 
+ 
+        <td>"kolm" &lt;200&gt;</td> 
+ 
+        <td>*99</td> 
+ 
+        <td>ANSWERED</td> 
+ 
+        <td align="right">11</td> 
+      </tr> 
+ 
+      <tr class="c13"> 
+        <td align="right" class="xl63 c14" height="20">20.05.2009 19:12</td> 
+ 
+        <td>IAX2/201-4766</td> 
+ 
+        <td align="right">201</td> 
+ 
+        <td>"neli" &lt;201&gt;</td> 
+ 
+        <td align="right">200</td> 
+ 
+        <td>ANSWERED</td> 
+ 
+        <td align="right">37</td> 
+      </tr> 
+ 
+      <tr class="c13"> 
+        <td align="right" class="xl63 c14" height="20">20.05.2009 19:12</td> 
+ 
+        <td>IAX2/200-10762</td> 
+ 
+        <td align="right">200</td> 
+ 
+        <td>"gruppkolm" &lt;200&gt;</td> 
+ 
+        <td align="right">600</td> 
+ 
+        <td>ANSWERED</td> 
+ 
+        <td align="right">39</td> 
+      </tr> 
+ 
+      <tr class="c13"> 
+        <td align="right" class="xl63 c14" height="20">20.05.2009 19:13</td> 
+ 
+        <td>IAX2/200-3059</td> 
+ 
+        <td align="right">200</td> 
+ 
+        <td>"gruppkolm" &lt;200&gt;</td> 
+ 
+        <td align="right">600</td> 
+ 
+        <td>ANSWERED</td> 
+ 
+        <td align="right">47</td> 
+      </tr> 
+ 
+      <tr class="c13"> 
+        <td align="right" class="xl63 c14" height="20">20.05.2009 19:32</td> 
+ 
+        <td>SIP/42user-b7403038</td> 
+ 
+        <td>42user</td> 
+ 
+        <td>"kolmsada" &lt;42user&gt;</td> 
+ 
+        <td align="right">200</td> 
+ 
+        <td>ANSWERED</td> 
+ 
+        <td align="right">19</td> 
+      </tr> 
+ 
+      <tr class="c13"> 
+        <td align="right" class="xl63 c14" height="20">20.05.2009 19:32</td> 
+ 
+        <td>IAX2/200-1897</td> 
+ 
+        <td align="right">200</td> 
+ 
+        <td>"kolm" &lt;200&gt;</td> 
+ 
+        <td align="right">300</td> 
+ 
+        <td>ANSWERED</td> 
+ 
+        <td align="right">8</td> 
+      </tr> 
+    </tbody> 
+  </table><br /> 
+  <br /> 
+  <br /> 
+  <br /> 
+  <br clear="all" /> 
+ 
+  <p><a href='http://docs.google.com/View?docID=dfmc8fvr_302fwbgfnct&amp;revision=_latest&amp;hgd=1'>Google Docs</a></p><p><a href='http://infohound.net/tidy/tidy.pl?_function=download&amp;file=t11346_112319.html.tdy'>Tidy</a></p><center> 
+    <a href='http://validator.w3.org/check?uri=referer'><img
+        src='http://www.w3.org/Icons/valid-xhtml10'
+        alt='Valid XHTML 1.0 Transitional' height='31' width='88' /></a> 
+  </center></body> 
+</html> 
+ 
+ 

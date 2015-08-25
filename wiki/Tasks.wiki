@@ -1,0 +1,44 @@
+= Server =
+ # learn about demand and supply at pirate bay
+ # learn youtube video trailer for each movie
+ # learn imdb poster and details for the movie
+ # learn about tineye poster hash
+ # export rss feed
+
+Each task can only run 5 secs, then a continuation must be spawned to resume next task.
+
+== File System Based Task Management ==
+
+By reusing filesystem we are representing hierarchical tasks.
+
+  * task 1 
+    * tags
+      * locked
+      * completed
+      * ping
+    * input queue
+      * item1
+      * item2
+    * children
+      * sub task 1
+      * sub task 2
+
+== Possible Tasks ==
+
+  * Download new entries from piratebay
+  * Search movie alias
+  * Search trailer
+
+== Fault Handling == 
+
+Beginning of the task the input file is moved to a interval + 2 folder. If the task completes and the lock file exists the pending input file will be deleted. Otherwise the next instance will simply retry.
+
+= Client =
+ # Learn about supply via rss
+ # Show a grid of movie posters
+ # Show video
+ # Show imdb data
+ # Show ads
+ # Show torrent link (may be not for the public)
+ # Save preferences to gears database
+ # Use coral cache for resource files

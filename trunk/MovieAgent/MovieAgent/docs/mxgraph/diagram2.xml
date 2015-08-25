@@ -1,0 +1,219 @@
+﻿<mxGraphModel>
+  <root>
+    <Diagram label="My Diagram" href="http://www.mxgraph.com/" id="0">
+      <mxCell/>
+    </Diagram>
+    <Layer label="Default Layer" id="1">
+      <mxCell parent="0"/>
+    </Layer>
+    <Roundrect label="feedburner&#xa;30min" href="" id="4">
+      <mxCell style="rounded" parent="1" vertex="1">
+        <mxGeometry x="20" y="280" width="80" height="40" as="geometry"/>
+      </mxCell>
+    </Roundrect>
+    <Roundrect label="feed.xml" href="" id="5">
+      <mxCell style="rounded;strokeColor=yellow;fillColor=yellow" parent="1" vertex="1">
+        <mxGeometry x="170" y="310" width="80" height="40" as="geometry"/>
+      </mxCell>
+    </Roundrect>
+    <Roundrect label="yahoo pipes&#xa;3h" href="" id="6">
+      <mxCell style="rounded;strokeColor=#00a000;fillColor=#00a000" parent="1" vertex="1">
+        <mxGeometry x="20" y="170" width="80" height="40" as="geometry"/>
+      </mxCell>
+    </Roundrect>
+    <Roundrect label="imdb" href="" id="7">
+      <mxCell style="rounded" parent="1" vertex="1">
+        <mxGeometry x="560" y="410" width="80" height="40" as="geometry"/>
+      </mxCell>
+    </Roundrect>
+    <Roundrect label="piratebay" href="" id="8">
+      <mxCell style="rounded" parent="1" vertex="1">
+        <mxGeometry x="580" y="350" width="80" height="40" as="geometry"/>
+      </mxCell>
+    </Roundrect>
+    <Roundrect label="youtube" href="" id="9">
+      <mxCell style="rounded" parent="1" vertex="1">
+        <mxGeometry x="470" y="430" width="80" height="40" as="geometry"/>
+      </mxCell>
+    </Roundrect>
+    <Roundrect label="tineye" href="" id="10">
+      <mxCell style="rounded" parent="1" vertex="1">
+        <mxGeometry x="370" y="430" width="80" height="40" as="geometry"/>
+      </mxCell>
+    </Roundrect>
+    <Roundrect label="tinyurl" href="" id="11">
+      <mxCell style="rounded" parent="1" vertex="1">
+        <mxGeometry x="280" y="410" width="80" height="40" as="geometry"/>
+      </mxCell>
+    </Roundrect>
+    <Connector label="" href="" id="13">
+      <mxCell parent="1" edge="1">
+        <mxGeometry relative="1" as="geometry">
+          <mxPoint x="300" y="350" as="sourcePoint"/>
+          <mxPoint x="300" y="350" as="targetPoint"/>
+        </mxGeometry>
+      </mxCell>
+    </Connector>
+    <Roundrect label="zproxy.planet.ee" href="" id="14">
+      <mxCell style="rounded;strokeColor=red;fillColor=red" parent="1" vertex="1">
+        <mxGeometry x="400" y="140" width="130" height="40" as="geometry"/>
+      </mxCell>
+    </Roundrect>
+    <Roundrect label="zmovies.tk" href="" id="15">
+      <mxCell style="rounded;strokeColor=red;fillColor=red" parent="1" vertex="1">
+        <mxGeometry x="530" y="20" width="130" height="40" as="geometry"/>
+      </mxCell>
+    </Roundrect>
+    <Roundrect label="google gears" href="" id="16">
+      <mxCell style="rounded" parent="1" vertex="1">
+        <mxGeometry x="70" y="50" width="80" height="40" as="geometry"/>
+      </mxCell>
+    </Roundrect>
+    <Roundrect label="smart client&#xa;flash/html" href="" id="17">
+      <mxCell style="rounded;strokeColor=#00a000;fillColor=#00a000" parent="1" vertex="1">
+        <mxGeometry x="170" y="140" width="80" height="40" as="geometry"/>
+      </mxCell>
+    </Roundrect>
+    <Connector label="" href="" id="22">
+      <mxCell style="arrowConnector" parent="1" source="17" target="16" edge="1">
+        <mxGeometry relative="1" as="geometry"/>
+      </mxCell>
+    </Connector>
+    <Connector label="" href="" id="23">
+      <mxCell style="arrowConnector" parent="1" source="6" target="17" edge="1">
+        <mxGeometry relative="1" as="geometry"/>
+      </mxCell>
+    </Connector>
+    <Connector label="" href="" id="24">
+      <mxCell style="arrowConnector" parent="1" source="14" target="17" edge="1">
+        <mxGeometry relative="1" as="geometry"/>
+      </mxCell>
+    </Connector>
+    <Connector label="" href="" id="25">
+      <mxCell style="arrowConnector" parent="1" source="15" target="14" edge="1">
+        <mxGeometry relative="1" as="geometry"/>
+      </mxCell>
+    </Connector>
+    <Connector label="" href="" id="26">
+      <mxCell style="arrowConnector" parent="1" source="5" target="4" edge="1">
+        <mxGeometry relative="1" as="geometry"/>
+      </mxCell>
+    </Connector>
+    <Connector label="" href="" id="27">
+      <mxCell style="arrowConnector" parent="1" source="4" target="6" edge="1">
+        <mxGeometry relative="1" as="geometry"/>
+      </mxCell>
+    </Connector>
+    <Shape label="dispatcher &#xa;5sec interval" href="" id="28">
+      <mxCell style="hexagon" parent="1" vertex="1">
+        <mxGeometry x="410" y="300" width="100" height="80" as="geometry"/>
+      </mxCell>
+    </Shape>
+    <Connector label="" href="" id="29">
+      <mxCell style="arrowConnector" parent="1" source="14" target="28" edge="1">
+        <mxGeometry relative="1" as="geometry"/>
+      </mxCell>
+    </Connector>
+    <Connector label="" href="" id="30">
+      <mxCell style="arrowConnector" parent="1" source="28" target="5" edge="1">
+        <mxGeometry relative="1" as="geometry"/>
+      </mxCell>
+    </Connector>
+    <Connector label="" href="" id="31">
+      <mxCell style="arrowConnector" parent="1" source="28" target="11" edge="1">
+        <mxGeometry relative="1" as="geometry"/>
+      </mxCell>
+    </Connector>
+    <Connector label="" href="" id="32">
+      <mxCell style="arrowConnector" parent="1" source="28" target="10" edge="1">
+        <mxGeometry relative="1" as="geometry"/>
+      </mxCell>
+    </Connector>
+    <Connector label="" href="" id="33">
+      <mxCell style="arrowConnector" parent="1" source="28" target="9" edge="1">
+        <mxGeometry relative="1" as="geometry"/>
+      </mxCell>
+    </Connector>
+    <Connector label="" href="" id="34">
+      <mxCell style="arrowConnector" parent="1" source="28" target="7" edge="1">
+        <mxGeometry relative="1" as="geometry"/>
+      </mxCell>
+    </Connector>
+    <Connector label="" href="" id="35">
+      <mxCell style="arrowConnector" parent="1" source="28" target="8" edge="1">
+        <mxGeometry relative="1" as="geometry"/>
+      </mxCell>
+    </Connector>
+    <Connector label="" href="" id="37">
+      <mxCell style="arrowConnector" edge="1" target="38" parent="1" source="17">
+        <mxGeometry relative="1" as="geometry">
+          <mxPoint x="320" y="130" as="sourcePoint"/>
+        </mxGeometry>
+      </mxCell>
+    </Connector>
+    <Roundrect label="cooliris" href="" id="38">
+      <mxCell style="rounded" vertex="1" parent="1">
+        <mxGeometry x="170" y="20" width="80" height="40" as="geometry"/>
+      </mxCell>
+    </Roundrect>
+    <Roundrect label="google gadget" href="" id="39">
+      <mxCell style="rounded" vertex="1" parent="1">
+        <mxGeometry x="170" y="230" width="80" height="40" as="geometry"/>
+      </mxCell>
+    </Roundrect>
+    <Connector label="" href="" id="40">
+      <mxCell style="arrowConnector" edge="1" parent="1" source="39" target="17">
+        <mxGeometry relative="1" as="geometry">
+          <mxPoint x="290" y="260" as="sourcePoint"/>
+          <mxPoint x="330" y="180" as="targetPoint"/>
+        </mxGeometry>
+      </mxCell>
+    </Connector>
+    <Roundrect label="mochigames" href="" id="41">
+      <mxCell style="rounded" vertex="1" parent="1">
+        <mxGeometry x="580" y="290" width="80" height="40" as="geometry"/>
+      </mxCell>
+    </Roundrect>
+    <Connector label="" href="" id="42">
+      <mxCell style="arrowConnector" edge="1" parent="1" source="28" target="41">
+        <mxGeometry relative="1" as="geometry">
+          <mxPoint x="520" y="359.375" as="sourcePoint"/>
+          <mxPoint x="590" y="372.5" as="targetPoint"/>
+        </mxGeometry>
+      </mxCell>
+    </Connector>
+    <Roundrect label="google &#xa;friend connect" href="" id="43">
+      <mxCell style="rounded" vertex="1" parent="1">
+        <mxGeometry x="280" y="50" width="80" height="40" as="geometry"/>
+      </mxCell>
+    </Roundrect>
+    <Connector label="" href="" id="44">
+      <mxCell style="arrowConnector" edge="1" target="43" parent="1" source="17">
+        <mxGeometry relative="1" as="geometry">
+          <mxPoint x="320" y="140" as="sourcePoint"/>
+        </mxGeometry>
+      </mxCell>
+    </Connector>
+    <Shape label="coral&#xa;cache" href="" id="45">
+      <mxCell style="ellipse" vertex="1" parent="1">
+        <mxGeometry x="580" y="170" width="60" height="60" as="geometry"/>
+      </mxCell>
+    </Shape>
+    <Connector label="" href="" id="46">
+      <mxCell style="arrowConnector" edge="1" parent="1" source="14" target="45">
+        <mxGeometry relative="1" as="geometry">
+          <mxPoint x="544.6666666666667" y="180" as="sourcePoint"/>
+          <mxPoint x="541.3333333333333" y="300" as="targetPoint"/>
+        </mxGeometry>
+      </mxCell>
+    </Connector>
+    <Connector label="" href="" id="47">
+      <mxCell style="arrowConnector" edge="1" parent="1" source="45" target="41">
+        <mxGeometry relative="1" as="geometry">
+          <mxPoint x="540" y="240" as="sourcePoint"/>
+          <mxPoint x="591.0802214538184" y="202.02213005622573" as="targetPoint"/>
+        </mxGeometry>
+      </mxCell>
+    </Connector>
+  </root>
+</mxGraphModel>

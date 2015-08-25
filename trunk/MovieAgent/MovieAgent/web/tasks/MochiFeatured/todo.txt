@@ -1,0 +1,3 @@
+﻿As a publisher we should be downloading games.
+
+http://www.mochiads.com/feeds/games/ee29b66a04ba1b53/featured_games/all?format=json&limit=1
